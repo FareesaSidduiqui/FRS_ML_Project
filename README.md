@@ -9,5 +9,5 @@ libraries to install
 4. os
 4. numpy
 
-Pre trained file to install
+Pre trained model file
 1. yolov8n.pt
