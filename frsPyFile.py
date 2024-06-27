@@ -121,11 +121,11 @@ def capture_images(name):
 
 # %%
 # Prompt user to enter the name of the new person
-while True:
-    name = input("Enter the name of the new ID: ")
-    if not os.path.exists(os.path.join(known_faces_dir, name)):
-        break
-    print(f"Error: Directory for {name} already exists. Please choose a different name.")
+# while True:
+name = input("Enter the name of the new ID: ")
+#     if not os.path.exists(os.path.join(known_faces_dir, name)):
+#         break
+#     print(f"Error: Directory for {name} already exists. Please choose a different name.")
 
 # Call the function to capture images
 capture_images(name)
