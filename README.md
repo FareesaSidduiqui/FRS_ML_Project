@@ -55,4 +55,4 @@ A demonstration video of the project is available here:
 This project was developed as a group effort by:
 - Fareesa Siddqui
 - Riza Zulfiqar
-- Aleena ALi
+- Aleena Ali
